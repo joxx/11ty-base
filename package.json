@@ -1,0 +1,22 @@
+{
+  "name": "11ty-base",
+  "version": "1.0.0",
+  "description": "my personal 11ty basic structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joxx/11ty-base.git"
+  },
+  "keywords": [
+    "11ty"
+  ],
+  "author": "joachim kliemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joxx/11ty-base/issues"
+  },
+  "homepage": "https://github.com/joxx/11ty-base#readme"
+}
